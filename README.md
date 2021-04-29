@@ -1,5 +1,5 @@
 # Monkey2
-원숭이도 할수 있지만 나는 못하는 GIT
+원숭이
 ```javascript
 let a=10;
 let result=a+10;
